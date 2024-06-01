@@ -1,6 +1,6 @@
 # Portfolio
 
-Willkommen in meinem Portfolio-Repository! Dieses Projekt zeigt meine Fähigkeiten, Erfahrungen und Projekte als [dein Beruf, z.B. Webentwickler, Grafikdesigner usw.]. Hier findest du verschiedene Beispiele meiner Arbeit sowie Informationen über meinen Hintergrund und die von mir verwendeten Technologien.
+Willkommen in meinem Portfolio-Repository! Dieses Projekt zeigt meine Fähigkeiten, Erfahrungen und Projekte als Webentwickler. Hier findest du verschiedene Beispiele meiner Arbeit sowie Informationen über meinen Hintergrund und die von mir verwendeten Technologien.
 
 ## Inhaltsverzeichnis
 
@@ -21,13 +21,11 @@ Dieses Portfolio ist dazu gedacht, einen umfassenden Überblick über meine beru
 - **Responsives Design**: Optimiert für verschiedene Bildschirmgrößen und Geräte.
 - **Interaktive Elemente**: Benutzerfreundliche Schnittstellenkomponenten zur Verbesserung der Benutzererfahrung.
 - **Projektgalerie**: Eine Sammlung meiner besten Projekte mit Beschreibungen, Screenshots und Links.
-- **Blog**: Artikel und Tutorials zu branchenspezifischen Themen.
 
 ## Verwendete Technologien
 
-- **Frontend**: HTML, CSS, JavaScript, [Frontend-Framework, z.B. React, Vue.js]
-- **Backend**: [Backend-Technologie, z.B. Node.js, Django]
-- **Styling**: [CSS-Framework, z.B. Bootstrap, Tailwind CSS]
+- **Frontend**: HTML, CSS, JavaScript, React.js, Next.js
+- **Styling**: Tailwind.jss
 - **Versionierung**: Git und GitHub
 
 ## Installation
