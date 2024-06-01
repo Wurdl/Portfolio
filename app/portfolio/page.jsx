@@ -26,7 +26,7 @@ const projects = [
       {name: 'Wordpress'}, {name: 'Php'}, {name: 'Javascript'}, {name: 'SEO'}
     ],
     image: '/assets/work/thumb1.png',
-    live: 'hhtps://webit4you.at',
+    live: 'https://webit4you.at',
     github: ''
   },
   {
@@ -39,7 +39,7 @@ const projects = [
     ],
     image: '/assets/work/thumb2.png',
     live: '',
-    github: ''
+    github: 'https://github.com/Wurdl/Portfolio'
   },
   {
     num: '03',
