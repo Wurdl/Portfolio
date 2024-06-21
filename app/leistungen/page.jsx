@@ -7,23 +7,23 @@ const services = [
   {
     num: "01",
     title: "Web Entwicklung",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti consectetur similique.",
+    description: "Professionelle Entwicklung von benutzerfreundlichen und performanten Websites, maßgeschneidert auf die Bedürfnisse Ihrer Zielgruppe.",
     href: ""
   },
   {
     num: "02",
     title: "SEO",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti consectetur similique.",
+    description: "Effektive Strategien zur Verbesserung Ihres Google-Rankings und zur Steigerung der Online-Sichtbarkeit Ihres Unternehmens.",
     href: ""
   },{
     num: "03",
     title: "Wordpress",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti consectetur similique.",
+    description: "Erstellung und Anpassung von WordPress-Websites und -Plugins für eine optimale Performance und Funktionalität.",
     href: ""
   },{
     num: "04",
-    title: "UI/UX Design",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti consectetur similique.",
+    title: "Support / Schulungen",
+    description: "Persönlicher Support und maßgeschneiderte Schulungen für Ihr Team, um das Beste aus Ihren Webprojekten herauszuholen.",
     href: ""
   }
 ]
@@ -39,9 +39,9 @@ const Leistungen = () => {
           animate={{opacity: 1, transition: {delay: 2.4, duration: 0.4, ease: "easeIn"}}}
           className=''
         >
-          <h1 className='text-5xl font-extrabold my-[150px]'>Meine Leistungen als&nbsp;
-            <span className='text-5xl font-extrabold text-outline-accent text-transparent text-nowrap'>Web Entwickler</span>&nbsp;
-            & <span className='text-5xl font-extrabold text-outline-accent text-transparent text-nowrap'>SEO Experte</span>&nbsp;
+          <h1 className='text-5xl font-extrabold my-[150px]'>Meine Leistungen im Bereich
+            <span className='text-5xl font-extrabold text-outline-accent text-transparent text-nowrap'> Web Entwicklung </span>
+             & <span className='text-5xl font-extrabold text-outline-accent text-transparent text-nowrap'>SEO </span>
             in Graz
           </h1>
           <div className='grid grid-cols-1 md:grid-cols-2 gap-[60px]'>

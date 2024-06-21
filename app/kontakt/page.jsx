@@ -41,7 +41,7 @@ const Kontakt = () => {
           <div className='xl:w-[54%] order-2 xl:order-none'>
             <form className='flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl'>
               <h3 className='text-4xl text-accent'>Let's work together</h3>
-              <p className='text-white/60'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam, dolores?</p>
+              <p className='text-white/60'>Ich freue mich darauf, mit Ihnen an spannenden Projekten zu arbeiten! Bitte füllen Sie das untenstehende Formular aus, um mit mir in Kontakt zu treten. Beschreiben Sie Ihr Anliegen so detailliert wie möglich, damit ich Ihnen bestmöglich weiterhelfen kann.<br /> Ich melde mich schnellstmöglich bei Ihnen zurück.</p>
 
               {/* input */}
               <div className='grid grid-cols-1 md:grid-cols-2 gap-6'>
@@ -71,7 +71,7 @@ const Kontakt = () => {
               <div className='flex flex-row gap-4'>
                 <Checkbox required="true"/>
                 <label className='text-sm text-white/60'>
-                  Ich akzeptiere die Datenschutzerklärung ....
+                Ich akzeptiere Ihre Datenschutzerklärung und stimme zu, dass meine persönlichen Daten, nämlich Vorname, Nachname, E-Mail und Telefonnummer zum Zweck der Bearbeitung Ihrer Anfrage verarbeitet werden. Diese Einwilligung kann jederzeit per E-Mail an ehmannjakob@gmail.com widerrufen werden. Die Daten werden nicht an Dritte weitergegeben.
                 </label>
               </div>
 

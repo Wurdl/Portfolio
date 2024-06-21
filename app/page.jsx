@@ -18,18 +18,18 @@ const Home = () => {
               <span className="text-accent"> Jakob</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
-              Websiten und SEO, die die Onlinepräsenz Ihres Unternehmens auf das nächste Level bringen.
+              Websites und SEO, die die Onlinepräsenz Ihres Unternehmens auf das nächste Level bringen.
             </p>
             {/* btn and socials */}
-            <div className="flex flex-col xl:flex-row items-center gap-8">
+            <a href="/portfolio" className="flex flex-col xl:flex-row items-center gap-8">
               <Button variant="outline" size="lg" className="uppercase flex items-center gap-2">
-                <span>Lebenslauf herunterladen</span>
-                <FiDownload className="text-xl " />
+                <span>Zu meinen Referenzen</span>
+                {/* <FiDownload className="text-xl " /> */}
               </Button>
               <div className="mb-8 xl:mb-0">
                 <Social containerStyles="flex gap-6" iconStyle="w-9 h-9 border border-accent rounded-full flex justify-center items-center text-accent text-base hover:bg-accent hover:text-primary hover:transition-all duration-500" />
               </div>
-            </div>
+            </a>
           </div>
          
           {/* photo */}

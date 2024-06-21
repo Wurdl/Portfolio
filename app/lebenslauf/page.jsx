@@ -13,14 +13,14 @@ import { motion } from 'framer-motion'
 //data
 const about = {
   title: 'Über mich',
-  description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, ex.',
+  description: 'Mein Name ist Jakob Ehmann und ich arbeite seit sechs Jahren als Frontend-Webentwickler. Zusätzlich bin ich selbstständig und leite eine kleine Werbeagentur. Mein Fokus liegt auf der Entwicklung von benutzerfreundlichen und ansprechenden Websites/Web Applikationen sowie der Optimierung für Suchmaschinen. Ich bin stets auf der Suche nach neuen Herausforderungen und freue mich über spannende Freelance-Aufträge. Wenn Sie Interesse an einer Zusammenarbeit haben, zögern Sie nicht, mich zu kontaktieren.',
   info: [
     {
       fieldName: 'Name',
       fieldValue: 'Jakob Ehmann'
     },
     {
-      fieldName: 'Phone',
+      fieldName: 'Telefon',
       fieldValue: '(+43) 664 16 16 700'
     },
     {
@@ -46,7 +46,7 @@ const about = {
 const erfahrung = {
   icon: '/assets/resume/badge.svg',
   title: 'Berufliche Laufbahn',
-  description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Distinctio, nemo?',
+  description: 'In den vergangenen Jahren habe ich umfangreiche Erfahrungen mit React, Next.js und PHP/WordPress gesammelt und mich kontinuierlich in diesen Bereichen weiterentwickelt. Meine Expertise erstreckt sich von der Entwicklung komplexer React-Anwendungen über die Erstellung und Anpassung von WordPress-Websites bis hin zur Programmierung individueller WordPress-Plugins und -Erweiterungen. Darüber hinaus habe ich große SEO-Projekte erfolgreich umgesetzt und meine Kenntnisse in der Suchmaschinenoptimierung stetig vertieft. Durch meine vielseitigen Projekte konnte ich ein breites Spektrum an Fähigkeiten und Know-how aufbauen, das es mir ermöglicht, maßgeschneiderte und effiziente Lösungen für meine Kunden zu entwickeln.',
   items: [
     {
       company: 'Jack Coleman',
@@ -68,7 +68,7 @@ const erfahrung = {
 // skills
 const skills = {
   title: 'Meine Skills',
-  description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Distinctio, nemo?',
+  description: 'Hier finden Sie eine Übersicht der Technologien, die ich im Laufe meiner beruflichen Laufbahn erlernt habe.',
   skillList: [
     {
       icon: <FaHtml5 />,
